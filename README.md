@@ -22,6 +22,6 @@ Launch Shizuku and ensure the service is active.
 <br>Tap "Shizuku it! Dummy." to grant the required permission prompt.
 <br>Tap "Fix it! Dummy" to apply the link-handling defaults.
 ### 🛠️ Built With
-<br>Kotlin & Jetpack Compose (Material 3 / Material You)
+Kotlin & Jetpack Compose (Material 3 / Material You)
 <br>Shizuku API (dev.rikka.shizuku)
 <br>Assistance from Gemini 3.6 Flash & Gemini 3.5 Flash-lite
